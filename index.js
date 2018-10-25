@@ -15,6 +15,8 @@ function scuberGreetingForFeet(someValue) {
     return 'No can do.';
   }
 }
+//returns "Ok, sounds good." when the city is NYC ‣
+//should return "No go." if the destination city is not NYC
 
 function ternaryCheckCity (city) {
   return city === 'NYC' ? 'Ok, sounds good.' : 'No go.';
