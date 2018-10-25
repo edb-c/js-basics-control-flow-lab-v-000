@@ -16,8 +16,8 @@ function scuberGreetingForFeet(someValue) {
   }
 }
 
-function ternaryCheckCity(someCity){
-  return (someCity ? 'Ok, sounds good.' : 'No go.');
+function ternaryCheckCity(city){
+  return (city ? 'Ok, sounds good.' : 'No go.');
 }
 
 function switchOnCharmFromTip() {
