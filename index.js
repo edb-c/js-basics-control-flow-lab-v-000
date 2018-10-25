@@ -18,7 +18,7 @@ function scuberGreetingForFeet(someValue) {
 
 
 function ternaryCheckCity( ){
-  
+  return (isMember ? "$2.00" : "$10.00");
 }
 
 function switchOnCharmFromTip() {
