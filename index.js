@@ -23,7 +23,7 @@ function ternaryCheckCity (city) {
 }
 //should return "Thank you so much." if the tip is generous ‣
 //should return "Thank you." if the tip is not as generous ‣
-/should return "Bye." if anything else
+//should return "Bye." if anything else
 
 function switchOnCharmFromTip (tip) {
   switch (tip) {
