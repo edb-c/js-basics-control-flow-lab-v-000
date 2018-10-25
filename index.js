@@ -1,4 +1,3 @@
-//gives customers a free sample if the ride is less than or equal to 400 feet ‣
 
 //scuberGreetingForFeet()
 //gives customers a free sample if the ride is less than or equal to 400 feet ‣
@@ -16,6 +15,7 @@ function scuberGreetingForFeet(someValue) {
     return 'No can do.';
   }
 }
+
 
 function ternaryCheckCity( ){
   
