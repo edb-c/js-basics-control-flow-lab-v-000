@@ -8,4 +8,7 @@ function ternaryCheckCity( ){
   
 }
 
-funtion 
+function switchOnCharmFromTip() {
+  
+  
+}
